@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c8e4d03-7bdb-4b66-89d4-2cc1904f5893": {
+      "ProjectGuid": "5c8e4d03-7bdb-4b66-89d4-2cc1904f5893",
+      "DisplayName": "tamrin s7q2 ap",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

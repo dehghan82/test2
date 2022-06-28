@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\ap1400\tamrin s7q2 ap\tamrin s7q2 ap\obj\Debug\net6.0\tamrin s7q2 ap.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\ap1400\tamrin s7q2 ap\tamrin s7q2 ap\obj\Debug\net6.0\tamrin s7q2 ap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\ap1400\tamrin s7q2 ap\tamrin s7q2 ap\obj\Debug\net6.0\tamrin s7q2 ap.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\ap1400\tamrin s7q2 ap\tamrin s7q2 ap\obj\Debug\net6.0\tamrin s7q2 ap.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\ap1400\tamrin s7q2 ap\tamrin s7q2 ap\obj\Debug\net6.0\tamrin s7q2 ap.csproj.CoreCompileInputs.cache
